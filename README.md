@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-You can visit the chatApp: [https://your-personal-chatapp.netlify.app/](https://your-personal-chatapp.netlify.app/)
+You can visit the chatApp: [https://your-personal-chatapp.netlify.app/](https://your-personal-chatapp.netlify.app/) or
+[https://prakrutithakur.github.io/chat_application/](https://prakrutithakur.github.io/chat_application/)
 
 ## Available Scripts
 
